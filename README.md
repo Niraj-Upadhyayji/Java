@@ -1,4 +1,4 @@
 # Java
 This my first Git Repository.
 <br>
-Author- Niraj Upadhyay
+Author- Niraj Upadhyay(satya)
